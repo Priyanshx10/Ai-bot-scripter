@@ -1,4 +1,4 @@
-import VideoGenerator from "./components/VideoGenerator";
+import VideoGenerator from './components/VideoGenerator'
 
 export default function Home() {
   return (
